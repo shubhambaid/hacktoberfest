@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Dharshan.K](https://github.com/dharshan0011)
-- Place: Bengaluru, India
+- Place: Bengaluru, Karnataka, India
 - Bio: Web developer
 - Github: [Dharshan.K](https://github.com/dharshan0011)
